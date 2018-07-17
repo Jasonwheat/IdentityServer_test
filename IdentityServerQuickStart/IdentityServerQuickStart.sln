@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServerQuickStart", "IdentityServerQuickStart\IdentityServerQuickStart.csproj", "{1FFA4F94-0FF9-43F7-92AB-F6ABDEF23CC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FFA4F94-0FF9-43F7-92AB-F6ABDEF23CC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FFA4F94-0FF9-43F7-92AB-F6ABDEF23CC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FFA4F94-0FF9-43F7-92AB-F6ABDEF23CC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FFA4F94-0FF9-43F7-92AB-F6ABDEF23CC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A9C32C4-BA56-49E9-9E8C-0ADB2B4BE539}
+	EndGlobalSection
+EndGlobal
